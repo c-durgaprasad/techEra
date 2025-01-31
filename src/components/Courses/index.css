@@ -1,0 +1,19 @@
+.logo {
+  width: 48px;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #1e293b;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+.course-details {
+  margin: 20px;
+  flex-grow: 4;
+}
+.li {
+  text-decoration: none;
+  padding: 0px;
+  display: flex;
+}

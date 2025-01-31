@@ -1,0 +1,13 @@
+.header-bg {
+  background-color: #f1f5f9;
+  height: 68px;
+}
+.website-logo {
+  width: 130px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.link {
+  text-decoration: none;
+  padding: 0px;
+}

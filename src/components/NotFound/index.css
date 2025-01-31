@@ -1,0 +1,23 @@
+.not-found {
+  width: 350px;
+  margin-top: 100px;
+}
+.page-not {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-weight: 500;
+  margin: 0px;
+  padding-top: 10px;
+}
+.page-desc {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-size: 15px;
+  padding: 0px;
+}
+.not-found-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
